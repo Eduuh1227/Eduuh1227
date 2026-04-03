@@ -30,7 +30,7 @@ I work with modern interfaces, API integrations, and AI-powered automation, alwa
 ## 📌 Featured projects
 
 ### 🔹 Legal website
-<img src="./assets/projeto1.png" width="100%" />
+<img src="./projeto1.png" width="100%" />
 
 Professional landing page focused on credibility and conversion.
 
@@ -39,7 +39,7 @@ Professional landing page focused on credibility and conversion.
 ---
 
 ### 🔹Interactive Quiz
-<img src="./assets/projeto2.png" width="100%" />
+<img src="./projeto2.png" width="100%" />
 
 Interactive front-end quiz, using HTML, CSS, and JavaScript, aimed at raising pedestrian awareness about safe practices when walking on the streets.
 
@@ -48,7 +48,7 @@ Interactive front-end quiz, using HTML, CSS, and JavaScript, aimed at raising pe
 ---
 
 ### 🔹 AI-powered chatbot for customer service.
-<img src="./assets/projeto3.png" width="100%" />
+<img src="./projeto3.png" width="100%" />
 
 Intelligent automation with API integration and AI-powered responses.
 
