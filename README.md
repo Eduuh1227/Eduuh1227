@@ -1,7 +1,7 @@
 # 👨‍💻 Eduardo Oliveira
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=25&center=true&vCenter=true&width=1000&lines=Developer+Front-End;Creating+websites+that+generate+clientes;Automation+with+IA+and+WhatsApp" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=25&center=true&vCenter=true&width=1000&lines=Developer+Front-End;Creating+websites+that+generate+clients;Automation+with+IA+and+WhatsApp" />
 </p>
 
 ---
