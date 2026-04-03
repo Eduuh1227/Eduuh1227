@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 About Me
 
 
 I'm a Front-End developer focused on creating professional, responsive websites and solutions that help businesses generate more clients.
@@ -15,7 +15,7 @@ I work with modern interfaces, API integrations, and AI-powered automation, alwa
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Technologies
 
 <p>
   <img src="https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5" />
@@ -27,37 +27,36 @@ I work with modern interfaces, API integrations, and AI-powered automation, alwa
 
 ---
 
-## 📌 Projetos em destaque
+## 📌 Featured projects
 
-### 🔹 Site Jurídico
+### 🔹 Legal website
 <img src="./assets/projeto1.png" width="100%" />
 
 Professional landing page focused on credibility and conversion.
 
-🔗 [Ver projeto](https://ilima-advogados-git-1a5623-eduardo-oliveiras-projects-9e8e2497.vercel.app)
+🔗 [View project](https://ilima-advogados-git-1a5623-eduardo-oliveiras-projects-9e8e2497.vercel.app)
 
 ---
 
-### 🔹 Quiz Interativo
+### 🔹Interactive Quiz
 <img src="./assets/projeto2.png" width="100%" />
 
-quiz interativo em Front-end, utilizando HTML, CSS e JavaScript, com o objetivo de conscientizar os pedestres 
-sobre atitudes seguras ao circular nas ruas
+Interactive front-end quiz, using HTML, CSS, and JavaScript, aimed at raising pedestrian awareness about safe practices when walking on the streets.
 
-🔗 [Ver projeto](https://other-quiz.vercel.app)
+🔗 [View project](https://other-quiz.vercel.app)
 
 ---
 
-### 🔹 Bot com IA para atendimento
+### 🔹 AI-powered chatbot for customer service.
 <img src="./assets/projeto3.png" width="100%" />
 
-Automação inteligente com integração de APIs e respostas com IA.
+Intelligent automation with API integration and AI-powered responses.
 
-🔗 [Ver código](https://github.com/Eduuh1227/bot-whatsappweb/tree/bot-webwhatsapp)
+🔗 [View code](https://github.com/Eduuh1227/bot-whatsappweb/tree/bot-webwhatsapp)
 
 ---
 
-## 📬 Contato
+## 📬 Contact
 
 <p align="center">
   <a href="https://www.linkedin.com/in/SEU_LINK" target="_blank">
@@ -73,4 +72,4 @@ Automação inteligente com integração de APIs e respostas com IA.
 
 ---
 
-⭐ Sempre evoluindo e construindo soluções que geram impacto real.
+⭐ Constantly evolving, creating solutions that generate real impact.
