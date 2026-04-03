@@ -32,7 +32,7 @@ I work with modern interfaces, API integrations, and AI-powered automation, alwa
 ### 🔹 Site Jurídico
 <img src="./assets/projeto1.png" width="100%" />
 
-Landing page profissional com foco em credibilidade e conversão.
+Professional landing page focused on credibility and conversion.
 
 🔗 [Ver projeto](https://ilima-advogados-git-1a5623-eduardo-oliveiras-projects-9e8e2497.vercel.app)
 
