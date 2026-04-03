@@ -8,9 +8,10 @@
 
 ## 🚀 Sobre mim
 
-Sou desenvolvedor Front-End focado em criar **sites profissionais, responsivos e soluções que ajudam negócios a gerar mais clientes**.
 
-Trabalho com interfaces modernas, integrações com APIs e automações com IA, sempre buscando unir **design + performance + resultado real**.
+I'm a Front-End developer focused on creating professional, responsive websites and solutions that help businesses generate more clients.
+
+I work with modern interfaces, API integrations, and AI-powered automation, always striving to combine design, performance, and real results.
 
 ---
 
