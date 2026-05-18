@@ -1,75 +1,29 @@
-# 👨‍💻 Eduardo Oliveira
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F1115,50:C9433F,100:E8B95C&text=Eduardo%20Oliveira&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Front-End%20%7C%20Back-End%20%7C%20Automation&descSize=18&descAlignY=58" /> <p align="center"> <a href="https://www.linkedin.com/in/eduardoaugustooliveira" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-111318?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /> </a> <a href="https://github.com/Eduuh1227?tab=repositories" target="_blank"> <img src="https://img.shields.io/badge/GitHub-111318?style=for-the-badge&logo=github&logoColor=FFFFFF" /> </a> <a href="https://wa.me/5511990073671" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-111318?style=for-the-badge&logo=whatsapp&logoColor=25D366" /> </a> </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=900&color=E8B95C&center=true&vCenter=true&width=900&lines=I+build+websites+that+generate+clients;I+create+interfaces%2C+APIs+and+automations;Front-End+with+business+vision;Back-End+with+real+world+integrations" /> </p>
+👋 About me
+I am a developer focused on building professional web solutions that combine interface, performance, automation, and business results.
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=25&center=true&vCenter=true&width=1000&lines=Developer+Front-End;Creating+websites+that+generate+clients;Automation+with+IA+and+WhatsApp" />
-</p>
+My work connects front-end design, back-end logic, API integrations, and AI-powered automation to help companies present their services better, capture leads, and improve customer service.
 
----
-
-## 🚀 About Me
-
-
-I'm a Front-End developer focused on creating professional, responsive websites and solutions that help businesses generate more clients.
-
-I work with modern interfaces, API integrations, and AI-powered automation, always striving to combine design, performance, and real results.
-
----
-
-## 🛠️ Technologies
-
-<p>
-  <img src="https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3" />
-  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git" />
-</p>
-
----
-
-## 📌 Featured projects
-
-### 🔹 Legal website
-<img src="./projeto1.png" width="100%" />
-
-Professional landing page focused on credibility and conversion.
-
-🔗 [View project](https://ilima-advogados-git-1a5623-eduardo-oliveiras-projects-9e8e2497.vercel.app)
-
----
-
-### 🔹Interactive Quiz
-<img src="./projeto2.png" width="100%" />
-
-Interactive front-end quiz, using HTML, CSS, and JavaScript, aimed at raising pedestrian awareness about safe practices when walking on the streets.
-
-🔗 [View project](https://other-quiz.vercel.app)
-
----
-
-### 🔹 AI-powered chatbot for customer service.
-<img src="./projeto3.png" width="100%" />
-
-Intelligent automation with API integration and AI-powered responses.
-
-🔗 [View code](https://github.com/Eduuh1227/bot-whatsappweb/tree/bot-webwhatsapp)
-
----
-
-## 📬 Contact
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/SEU_LINK" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/Eduuh1227?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://wa.me/5511990073671">
-    <img src="https://img.shields.io/badge/WhatsApp-000?style=for-the-badge&logo=whatsapp" />
-  </a>
-</p>
-
----
-
-⭐ Constantly evolving, creating solutions that generate real impact.
+const eduardoOliveira = {
+  role: "Front-End & Back-End Developer",
+  location: "São Paulo, Brazil",
+  focus: "Websites, landing pages, APIs and automations",
+  goal: "Build solutions that look professional and generate real impact",
+};
+⚡ What I build
+<table> <tr> <td width="33%"> <h3 align="center">Websites</h3> <p align="center"> Professional landing pages, responsive layouts, institutional pages and conversion-focused interfaces. </p> </td> <td width="33%"> <h3 align="center">Applications</h3> <p align="center"> Interactive front-end projects with JavaScript logic, organized UI, and clean user experience. </p> </td> <td width="33%"> <h3 align="center">Automation</h3> <p align="center"> Node.js bots, API integrations, WhatsApp automation and AI-powered customer service flows. </p> </td> </tr> </table>
+🧰 Tech stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,vscode,vercel" /> </p> <p align="center"> <img src="https://img.shields.io/badge/HTML5-111318?style=for-the-badge&logo=html5&logoColor=E34F26" /> <img src="https://img.shields.io/badge/CSS3-111318?style=for-the-badge&logo=css3&logoColor=1572B6" /> <img src="https://img.shields.io/badge/JavaScript-111318?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/Node.js-111318?style=for-the-badge&logo=node.js&logoColor=339933" /> <img src="https://img.shields.io/badge/Git-111318?style=for-the-badge&logo=git&logoColor=F05032" /> <img src="https://img.shields.io/badge/Vercel-111318?style=for-the-badge&logo=vercel&logoColor=FFFFFF" /> </p>
+🚀 Featured projects
+<table> <tr> <td width="50%"> <h3>⚖️ Ilima Advogados</h3> <img src="./projeto1.png" width="100%" alt="Ilima Advogados preview" /> <p> Professional landing page for a law firm, focused on credibility, clear communication and client conversion. </p> <p> <strong>Stack:</strong> HTML, CSS, JavaScript, Vercel </p> <a href="https://ilima-advogados-git-1a5623-eduardo-oliveiras-projects-9e8e2497.vercel.app" target="_blank"> View project </a> </td> <td width="50%"> <h3>🧠 Quiz Extensivo</h3> <img src="./projeto2.png" width="100%" alt="Quiz Extensivo preview" /> <p> Interactive quiz application with front-end logic, question flow, responsive interface and user feedback. </p> <p> <strong>Stack:</strong> HTML, CSS, JavaScript, Vercel </p> <a href="https://quiz-extensivo.vercel.app/" target="_blank"> View project </a> </td> </tr> <tr> <td width="50%"> <h3>🤖 WhatsApp Bot with AI</h3> <img src="./projeto3.png" width="100%" alt="WhatsApp bot preview" /> <p> Customer service automation using WhatsApp Web, Node.js, API integrations, dynamic menus and AI responses. </p> <p> <strong>Stack:</strong> Node.js, APIs, WhatsApp Web, AI </p> <a href="https://github.com/Eduuh1227/bot-whatsappweb/tree/bot-webwhatsapp" target="_blank"> View code </a> </td> <td width="50%"> <h3>💼 Portfolio Website</h3> <p> Personal portfolio built to present my projects, skills, contact links and development focus in a professional way. </p> <p> <strong>Stack:</strong> HTML, CSS, JavaScript </p> <a href="https://github.com/Eduuh1227" target="_blank"> View repositories </a> </td> </tr> </table>
+📈 GitHub activity
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Eduuh1227&show_icons=true&hide_border=true&bg_color=111318&title_color=E8B95C&icon_color=C9433F&text_color=FFFFFF" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduuh1227&layout=compact&hide_border=true&bg_color=111318&title_color=E8B95C&text_color=FFFFFF" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Eduuh1227&theme=dark&hide_border=true&background=111318&ring=E8B95C&fire=C9433F&currStreakLabel=E8B95C" /> </p>
+🎯 Current focus
+Building professional and responsive websites
+Improving JavaScript and Node.js projects
+Creating API integrations and automations
+Developing bots for customer service
+Learning more about AI applied to real business workflows
+📬 Contact me
+<p align="center"> <a href="https://www.linkedin.com/in/eduardoaugustooliveira" target="_blank"> <img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-111318?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /> </a> <a href="https://wa.me/5511990073671" target="_blank"> <img src="https://img.shields.io/badge/Send_me_a_message-111318?style=for-the-badge&logo=whatsapp&logoColor=25D366" /> </a> </p>
+<p align="center"> <strong>Code with purpose. Design with clarity. Build for real results.</strong> </p> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0F1115,50:C9433F,100:E8B95C" />
