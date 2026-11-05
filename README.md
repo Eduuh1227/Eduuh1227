@@ -110,7 +110,7 @@ My goal is simple: **build solutions that look professional, work well and make 
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <a href="https://github.com/Eduuh1227#overview"><img src="https://streak-stats.demolab.com?user=Eduuh1227&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0D1117" width="520" alt="Eduardo Oliveira's GitHub contribution streak" /></a>
+  <a href="https://github.com/Eduuh1227#overview"><img src="https://streak-stats.demolab.com?user=Eduuh1227&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0D1117&amp;disable_animations=true" width="520" alt="Eduardo Oliveira's GitHub contribution streak" /></a>
 </p>
 
 <h2 align="center">📈 Activity Graph</h2>
