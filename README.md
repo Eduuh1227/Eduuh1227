@@ -51,13 +51,23 @@ My goal is simple: **build solutions that look professional, work well and make 
 <h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs&amp;theme=dark" alt="HTML, CSS, JavaScript and Node.js" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,mysql&amp;theme=dark" alt="HTML5, CSS3, JavaScript, TypeScript and MySQL" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&amp;theme=dark" alt="Git, GitHub, Visual Studio Code and Vercel" />
+  <img src="https://skillicons.dev/icons?i=nodejs,py,git,github,vscode,vercel&amp;theme=dark" alt="Node.js, Python, Git, GitHub, Visual Studio Code and Vercel" />
 </p>
 
-<p align="center"><sub>Responsive interfaces &nbsp;·&nbsp; API integrations &nbsp;·&nbsp; AI-powered automation</sub></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Shopify-20232A?style=for-the-badge&amp;logo=shopify&amp;logoColor=96BF48" alt="Shopify" />
+  <img src="https://img.shields.io/badge/Liquid-20232A?style=for-the-badge&amp;labelColor=20232A&amp;color=20232A" alt="Liquid" />
+  <img src="https://img.shields.io/badge/APIs_REST-20232A?style=for-the-badge" alt="APIs REST" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Automation-20232A?style=for-the-badge" alt="Automação" />
+  <img src="https://img.shields.io/badge/Integrations-20232A?style=for-the-badge" alt="Integrações" />
+</p>
+
+<p align="center"><sub>Responsive interfaces &nbsp;·&nbsp; E-commerce &nbsp;·&nbsp; API integrations &nbsp;·&nbsp; AI-powered automation</sub></p>
 
 <br />
 
