@@ -73,20 +73,24 @@ My goal is simple: **build solutions that look professional, work well and make 
       <a href="https://github.com/Eduuh1227/ilima-advogados">View code →</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🧠 Quiz Extensivo</h3>
-      <a href="https://quiz-extensivo.vercel.app/"><img src="./projeto2.png" width="100%" alt="Quiz Extensivo interactive quiz interface" /></a>
-      <p>An interactive quiz with JavaScript logic, a guided question flow, a responsive interface and user feedback.</p>
-      <p><sub>HTML · CSS · JavaScript · Vercel</sub></p>
-      <a href="https://quiz-extensivo.vercel.app/">View project →</a>
+      <h3>✅ Controle de Tarefas Simples</h3>
+      <a href="https://controle-de-tarefas-simples.vercel.app/"><img src="./assets/controle-de-tarefas.webp" width="100%" alt="Controle de Tarefas Simples login and registration interface" /></a>
+      <p>A full-stack task manager with user registration, login and task creation, editing and deletion.</p>
+      <p><sub>HTML · CSS · JavaScript · Node.js</sub></p>
+      <a href="https://controle-de-tarefas-simples.vercel.app/">View project →</a>
+      &nbsp;·&nbsp;
+      <a href="https://github.com/Eduuh1227/controle-de-tarefas-simples">View code →</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 WhatsApp Bot with AI</h3>
-      <a href="https://github.com/Eduuh1227/bot-whatsappweb/tree/bot-webwhatsapp"><img src="./projeto3.png" width="100%" alt="WhatsApp customer service bot with a dynamic menu" /></a>
-      <p>Customer service automation with dynamic menus, API integrations and AI responses.</p>
-      <p><sub>Node.js · APIs · WhatsApp Web · AI</sub></p>
-      <a href="https://github.com/Eduuh1227/bot-whatsappweb/tree/bot-webwhatsapp">View code →</a>
+      <h3>🍕 Pizzaria Realeza</h3>
+      <a href="https://projeto-pizzaria-mu.vercel.app/"><img src="./assets/pizzaria-realeza.webp" width="100%" alt="Pizzaria Realeza website with its digital menu and online ordering" /></a>
+      <p>A responsive pizzeria website with a digital menu, customizable pizzas, a shopping cart, order tracking and an administrative panel.</p>
+      <p><sub>HTML · CSS · JavaScript · Node.js · PostgreSQL · Vercel</sub></p>
+      <a href="https://projeto-pizzaria-mu.vercel.app/">View project →</a>
+      &nbsp;·&nbsp;
+      <a href="https://github.com/Eduuh1227/Projeto-Pizzaria">View code →</a>
     </td>
     <td width="50%" valign="top">
       <h3>💼 Portfolio Website</h3>
