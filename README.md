@@ -73,13 +73,13 @@ My goal is simple: **build solutions that look professional, work well and make 
       <a href="https://github.com/Eduuh1227/ilima-advogados">View code →</a>
     </td>
     <td width="50%" valign="top">
-      <h3>✅ Controle de Tarefas Simples</h3>
-      <a href="https://controle-de-tarefas-simples.vercel.app/"><img src="./assets/controle-de-tarefas.webp" width="100%" alt="Controle de Tarefas Simples login and registration interface" /></a>
-      <p>A full-stack task manager with user registration, login and task creation, editing and deletion.</p>
-      <p><sub>HTML · CSS · JavaScript · Node.js</sub></p>
-      <a href="https://controle-de-tarefas-simples.vercel.app/">View project →</a>
+      <h3>♻️ Detector de Plásticos</h3>
+      <a href="https://projeto-detector-de-pl-sticos.vercel.app/"><img src="./assets/detector-de-plasticos.webp" width="100%" alt="Academic plastic waste detection application with image upload and computer vision tools" /></a>
+      <p>An academic computer vision project for comparing image-processing techniques and experimenting with YOLO detection of visible plastic waste in beach and river photos.</p>
+      <p><sub>Python · OpenCV · NumPy · YOLO · Streamlit</sub></p>
+      <a href="https://projeto-detector-de-pl-sticos.vercel.app/">View project →</a>
       &nbsp;·&nbsp;
-      <a href="https://github.com/Eduuh1227/controle-de-tarefas-simples">View code →</a>
+      <a href="https://github.com/Eduuh1227/Projeto-Detector-de-Pl-sticos-">View code →</a>
     </td>
   </tr>
   <tr>
