@@ -45,7 +45,7 @@ My goal is simple: **build solutions that look professional, work well and make 
 <p align="center">
   <a href="https://wa.me/5511990073671">WhatsApp</a>
   &nbsp;·&nbsp;
-  <a href="https://eduardo-oliveira-desenvolvedor-fron.vercel.app/">Portfolio</a>
+  <a href="https://eduardo-oliveira-desenvolvimento-e.vercel.app/">Portfolio</a>
 </p>
 
 <h2 align="center">💻 Tech Stack</h2>
@@ -93,7 +93,7 @@ My goal is simple: **build solutions that look professional, work well and make 
       <p>My personal space to share projects, skills and the work I build across front-end development, back-end integrations and automation.</p>
       <p>Explore the projects and get in touch to discuss an idea.</p>
       <p><sub>HTML · CSS · JavaScript · Vercel</sub></p>
-      <a href="https://eduardo-oliveira-desenvolvedor-fron.vercel.app/">View portfolio →</a>
+      <a href="https://eduardo-oliveira-desenvolvimento-e.vercel.app/">View portfolio →</a>
     </td>
   </tr>
 </table>
