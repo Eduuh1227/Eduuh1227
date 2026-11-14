@@ -77,9 +77,11 @@ My goal is simple: **build solutions that look professional, work well and make 
   <tr>
     <td width="50%" valign="top">
       <h3>⚖️ Ilima Advogados</h3>
-      <a href="https://github.com/Eduuh1227/ilima-advogados"><img src="./projeto1.png" width="100%" alt="Ilima Advogados landing page" /></a>
+      <a href="https://ilima-advogados-s9pl.vercel.app/"><img src="./projeto1.png" width="100%" alt="Ilima Advogados landing page" /></a>
       <p>A professional landing page for a law firm, focused on credibility, clear communication and client conversion.</p>
       <p><sub>HTML · CSS · JavaScript · Vercel</sub></p>
+      <a href="https://ilima-advogados-s9pl.vercel.app/">View project →</a>
+      &nbsp;·&nbsp;
       <a href="https://github.com/Eduuh1227/ilima-advogados">View code →</a>
     </td>
     <td width="50%" valign="top">
@@ -104,6 +106,7 @@ My goal is simple: **build solutions that look professional, work well and make 
     </td>
     <td width="50%" valign="top">
       <h3>💼 Portfolio Website</h3>
+      <a href="https://eduardo-oliveira-desenvolvimento-e.vercel.app/"><img src="./assets/portfolio-website.webp" width="100%" alt="Eduardo Oliveira portfolio website featuring front-end and back-end development" /></a>
       <p>My personal space to share projects, skills and the work I build across front-end development, back-end integrations and automation.</p>
       <p>Explore the projects and get in touch to discuss an idea.</p>
       <p><sub>HTML · CSS · JavaScript · Vercel</sub></p>
